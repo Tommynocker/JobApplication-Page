@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "JobApplication-Source",
   "resources": {
-    "hash": "sha256-HHSmOGFgh8YjZqx1pdkEjwPdyLLkL+4U7GV1JZYNRs0=",
+    "hash": "sha256-7wM5KMYW/56K1pCp8h5vSedXFg/ZEo4Cmg9Bfjq63bM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -49,8 +49,8 @@
       "System.Text.Json.wasm": "sha256-LzckO/AJ4tk8JcrvzoEU4L688Vo7LhQDJqwSfbVt0Fc=",
       "System.Text.RegularExpressions.wasm": "sha256-EBNNP57+VS/OjAuJHOY1mCfaJCJQYORnhF3/w7wP5kI=",
       "netstandard.wasm": "sha256-OtH/qSDnMvAc3gF0MhtntLwnMWs+wEjNxXQnaiTt1ro=",
-      "System.Private.CoreLib.wasm": "sha256-ADg4NC8CM1kYs1hNj9znau+15Fo44SAug67bSRIfxWU=",
-      "JobApplication-Source.wasm": "sha256-6x555yOKvzO/AjkIFMJFJQsE0xRu8EwZvnKEGaZNugo="
+      "System.Private.CoreLib.wasm": "sha256-yRQ4Hex6+M8PrNO2SPRI7x5w14YPt8BxU1lri1KgDmo=",
+      "JobApplication-Source.wasm": "sha256-m/c21/E8MAVGfnuDO5tXVvFIR9/gRhcQrACFyzTeQOk="
     }
   },
   "cacheBootResources": true,
